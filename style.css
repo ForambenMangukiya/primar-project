@@ -1,0 +1,362 @@
+*{
+   
+    padding: 0;
+    height: fit-content;
+}
+#header{
+    height: 350px;
+    background-color: rgb(37, 37, 215);
+}
+
+#navimg{
+    display: flex;
+    margin-top: -2%;
+    margin-left: 70%;
+    
+}
+
+.navimg1{
+    font-size: 15px;
+    color: white;
+}
+
+#navimg1{
+    width: 20%;
+    height: 20%;
+    margin-left: 25px;
+    }
+    
+
+.navimg2{
+    font-size: 15px;
+    color: white;
+    margin-left: 10px;
+    
+    
+}
+
+#navimg2{
+    width: 20%;
+    height: 20%;
+    margin-left: 15px;
+    }
+
+.navimg3{
+    font-size: 15px;
+    color: white;
+}
+
+#navimg3{
+    width: 20%;
+    height: 20%;
+    margin-left: 25px;
+ }
+
+.navimg4{    
+    font-size: 15px;
+    color: white;
+}
+
+#navimg4{
+    width: 20%;
+    height: 20%;
+    margin-left: 12px;
+    }
+
+.navimg5{
+    font-size: 15px;
+    color: white;
+}
+#navimg5{
+    width: 20%;
+    height: 20%;
+    margin-left: 12px;
+    }
+
+.search{
+    text-align: center;
+    margin-top: 70px;
+      
+}
+#jobtitle{
+    width: 300px;
+    height: 35px;
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+#location{
+    width: 300px;
+    height: 35px;
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+#findjobs{
+    width: 80px;
+    background-color: rgb(19, 156, 241);
+    height: 35px;
+    border-color: transparent;
+    border-radius: 8px;
+}
+
+.shift{
+    margin-left: -390px;
+    margin-top: 20px;
+    font-size: 15px;
+    color: white;     
+}
+
+.sections{
+    background-color: whitesmoke;
+}
+
+.help {
+    
+        margin-left: 100px;
+        margin-top: 50px;
+        font-size: 40px;
+}
+
+.firstsection{
+
+     display: flex;
+     gap: 20px;
+     margin-top: 20px;
+     margin-left: 70px;
+     
+}
+
+#label{
+    top: 10px;
+    margin-left: 35px;
+}
+
+#euro{
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.earn {
+    border-radius: 10px;
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    text-align: left;
+    font-size: 24px; 
+}
+
+    #apply {
+        margin-left: 50px;
+        margin-top: 50px;
+        width: 60px;
+    }
+    
+    .apply {
+        border-radius: 10px;
+        background-color: white;
+        width: 500px;
+        height: 250px;
+        text-align: left;
+        font-size: 24px;
+    }
+
+    #star{
+        width: 60px;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    
+    .get {
+        border-radius: 10px;
+        background-color: white;
+        width: 500px;
+        height: 250px;
+        text-align: left;
+        font-size: 24px;
+        margin-right: 50px;
+    }
+
+    .secondsection{
+
+        display: flex;
+        margin-top: 40px;
+        margin-left: 70px;
+   }
+
+   #labels{
+    font-size: 24px;
+    top: 10px;
+    margin-left: 25px;
+   
+   }
+
+   #labelss{
+    top: 10px;
+    margin-left: 25px;
+    font-size: 20px;
+    
+   }
+    .deserve{
+        border-radius: 10px;
+        background-color: white;
+        width: 450px;
+        height: 620px;
+        margin-right: 50px;
+    }
+
+    #deserve{
+        top: 2px;
+        width: 450px;   
+        border-top: 10px; 
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+
+    .negotiate{
+        border-radius: 10px;
+        background-color: white;
+        width: 450px;
+        height: 620px;
+        margin-left: -20px;
+    }
+
+    #negotiate{
+        top: 2px;
+        width: 450px;   
+        border-top: 10px; 
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+  
+    .clothing{
+        border-radius: 10px;
+        background-color: white;
+        width: 450px;
+        height: 620px;
+        margin-left: 20px;
+    
+    }
+
+    #clothing{
+        top: 2px;
+        width: 450px;   
+        border-top: 10px; 
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+  
+    .discover{
+        color: blue;
+        width: 450px;
+        height: 50px;
+        text-align: center;
+        margin-left: 550px;
+        background-color: white;
+        border-radius: 10px;
+        font-size: 20px;
+        margin-top: 50px;
+       
+    }
+
+   #footer{
+
+    background-color: white;
+    height: 500px;
+    margin-top: 50px;
+   }
+
+   #jobapp{
+    font-size: 60px;
+    margin-left: 80px;
+    margin-top: -350px;
+   }
+  
+   #text{
+        font-size: 25px;
+        margin-left: 80px;
+        font-family: "Helvetica Neue", Arial, sans-serif;
+   }
+
+   #qrcode{
+    margin-left: 440px;
+    margin-top: -350px;
+   }
+
+   #getjob{
+    margin-left: 850px;
+    margin-top: -400px;
+   }
+
+.jobpart{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+    font-size: 25px;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+.department{
+    margin-top: 20px;
+    box-sizing: border-box;
+    font-size: 20px;
+    margin-left: 40px;
+    colomn-gap : 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 35px;
+}
+
+#h4, a:visited{
+text-decoration: underline;
+color: rgb(6, 4, 6);
+text-decoration-color: blue;
+}
+
+a:visited {
+    color: rgb(101, 98, 98);
+    
+  }
+  a:link {
+    text-decoration: none;
+  }
+
+ a:hover{
+    color: black;
+    text-decoration: underline;
+ }
+
+ .navfoot{
+
+    height: 250px;
+ }
+
+ .aboutus{
+
+margin-top: 100px;
+margin-right: 40px;
+margin-left: 40px;
+font-size: 20px;
+color: black; 
+box-sizing: border-box;
+margin-bottom: 8px;
+font-family: "Helvetica Neue", Arial, sans-serif;
+ }
+
+ .applicant{
+    margin-left: 350px;
+    margin-top: -95px;
+    gap: 30px;
+    margin-bottom: 50px;
+ }
+
+ .employee{
+    margin-left: 710px;
+    margin-top: -215px;
+ }
+
+ .connect{
+    margin-left: 1050px;
+    margin-top: -72px;
+ }
