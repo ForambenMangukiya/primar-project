@@ -5,7 +5,7 @@
 }
 #header{
     height: 350px;
-    background-color: rgb(37, 37, 215);
+    background-color: rgb(27, 65, 190);
 }
 
 
@@ -102,9 +102,9 @@
 }
 
 .shift{
-    margin-left: -600px;
+    margin-left: -560px;
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 18px;
     color: white;     
 }
 
@@ -327,7 +327,6 @@ a:visited {
     color: black;
     text-decoration: underline;
  }
-
  .navfoot{
 
     height: 250px;
